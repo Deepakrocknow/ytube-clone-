@@ -1,4 +1,5 @@
 # ytube-clone:::..........
-![image](https://github.com/Deepakrocknow/ytube-clone-/assets/130336302/062bee54-f16e-4970-a8b9-10b5cc468a90)
-![image](https://github.com/Deepakrocknow/ytube-clone-/assets/130336302/61dcefdb-251c-48ee-a2b0-9122f31b25ad)
+![image](https://github.com/Deepakrocknow/ytube-clone-/assets/130336302/f0ae94c5-db0a-4992-8031-7715fdeb1cbd)
+![image](https://github.com/Deepakrocknow/ytube-clone-/assets/130336302/8166e0e0-a10c-4c3a-9e26-12387ee756cf)
+
 
